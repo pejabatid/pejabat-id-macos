@@ -18,6 +18,8 @@ Aplikasi ini belum dinotarisasi Apple. macOS akan menolak membukanya pada percob
 2. Buka Pengaturan Sistem, pilih Privasi & Keamanan.
 3. Di bagian Keamanan, tekan Tetap Buka untuk pejabat.id.
 
+Di macOS 12, jalurnya Preferensi Sistem, Keamanan & Privasi, lalu tab Umum.
+
 ## Pembaruan
 
 Aplikasi memeriksa versi baru sendiri dan memasangnya di latar. Versi baru berlaku saat aplikasi dibuka lagi. Pemeriksaan manual ada di menu pejabat.id, Periksa Pembaruan.
